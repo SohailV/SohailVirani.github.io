@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://sohailv.github.io/svirani/</loc>
+  <lastmod>2020-04-23T00:04:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sohailv.github.io/svirani/index.html</loc>
+  <lastmod>2020-04-23T00:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sohailv.github.io/svirani/about-us.html</loc>
+  <lastmod>2020-04-23T00:02:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sohailv.github.io/svirani/services.html</loc>
+  <lastmod>2020-04-23T00:03:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sohailv.github.io/svirani/contact.html</loc>
+  <lastmod>2020-04-23T00:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
