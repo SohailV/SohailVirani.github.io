@@ -1,0 +1,4 @@
+user-agent:*
+Disallow:
+
+sitemap: https://sohailv.github.io/svirani/sitemap.xml
